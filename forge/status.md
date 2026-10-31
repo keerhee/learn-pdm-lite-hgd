@@ -8,3 +8,4 @@
 | 3 퀴즈 | 완료 | 2026-10-31 | B1 1문항 |
 | 4 실습 MVP | 승인 ② (2026-10-31) | 2026-10-31 | 수치 6/6 일치, 렌더 콘솔 오류 0 · 모바일 390px (render_check는 playwright가 있는 python 3.12로 실행) |
 | 5 학습자 자료 | 완료 | 2026-10-31 | GUIDE.md (실습판이라 매뉴얼 덱 생략) |
+| 6 배포 | 승인 ③ public (2026-10-31) | 2026-10-31 | https://github.com/keerhee/learn-pdm-lite-hgd · https://keerhee.github.io/learn-pdm-lite-hgd/ · 첫 커밋 c81e520 · zip: kma-forge/learn-pdm-lite-hgd.zip |
